@@ -1,0 +1,12 @@
+*.classpath
+taskArtifacts
+*.class
+monster
+/build
+/bin
+/run
+*.project
+/.gradle
+*.launch
+/.settings/*.prefs
+/*.zip
